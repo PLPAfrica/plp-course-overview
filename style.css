@@ -3658,12 +3658,14 @@ section.avacus-blogpage-area {
 .large-preview .blog-img {
   position: relative;
   z-index: 4;
+  /* height: 50px; */
+
 }
 
 .large-preview .blog-img:before {
   position: absolute;
   width: 100px;
-  height: 100px;
+  height: 50px;
   left: -10px;
   background: #fde428;
   content: "";
@@ -4066,11 +4068,11 @@ a.button-four:hover {
 }
 
 .single-input-contact input:focus {
-  outline: none !imortant;
+  outline: none !important;
   box-shadow: 0 0 1px #fde428;
 }
 .single-input-contact select:focus {
-  outline: none !imortant;
+  outline: none !important;
   box-shadow: 0 0 1px #fde428;
   border: none !important;
 }
