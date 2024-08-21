@@ -1,4 +1,4 @@
 # Course Overview
 
-This is a web development course overview at https://powerlearnproject.org \n
-In partnership with https://progskill.com \n
+This is a web development course overview at https://powerlearnproject.org
+In partnership with https://progskill.com
